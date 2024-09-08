@@ -1,3 +1,3 @@
 # Zeabur Docs Changelog
 
-## [Initial Version] - 2024-09-02
+## [Initial Version] - 2024-09-09

@@ -15,8 +15,8 @@
     {
       "name": "search-documentation",
       "title": "Search Documentation",
-      "subtitle": "Search the Zeabur docs directly in Raycast",
-      "description": "Search the Zeabur docs directly in Raycast",
+      "subtitle": "Search Zeabur Docs",
+      "description": "Search Zeabur Docs",
       "mode": "view"
     }
   ],
